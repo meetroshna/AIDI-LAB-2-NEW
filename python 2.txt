@@ -1,0 +1,7 @@
+created a new branch added one more python file
+created a liner regression model
+steps are:
+loaded libraries and dataset
+data cleaning 
+train and test
+the model shows an accuracy of 96%
